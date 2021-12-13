@@ -1,8 +1,9 @@
 # Maintenance status
 
-Unmaintained, maintainers needed! I just took the archived repository, and released it to the Terraform Registry. I'm not a Go developer, so I'll not be able to maintain this repository in the long run. PRs are welcome, and I'll try to merge and release them as frequently as possible.
+This is a fork of the [original provider], but is not intended to replace it in the long term. It includes several PRs ([1](https://github.com/aeirola/terraform-provider-bitbucket/pull/5)
+[2](https://github.com/aeirola/terraform-provider-bitbucket/pull/6) [3](https://github.com/aeirola/terraform-provider-bitbucket/pull/7) and 
+[4](https://github.com/aeirola/terraform-provider-bitbucket/pull/8)), but maintenance of this provider will depend in general on what we encounter in production.
 
-If you would like Atlassian to take ownership of the provider, you can voice your opinion at [BCLOUD-17209](https://jira.atlassian.com/browse/BCLOUD-17209).
 
 ## History
 
